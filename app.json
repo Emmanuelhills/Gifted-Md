@@ -1,5 +1,5 @@
 {
-  "name":"gifted-md@4.0.0",
+  "name":"hillsBot",
   "description":"A MultiDevice WhatsApp Bot Created by Gifted Tech",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
@@ -42,7 +42,7 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"GIFTED-MD",
+      "value":"Hills Bot",
       "required":false
 
     } ,
@@ -94,7 +94,7 @@
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "5"
+    "value": "3"
   },
     "CHAT_BOT":
     {
